@@ -46,6 +46,12 @@ const Sidebar = () => {
           <p>Kid Toys</p>
           <p>Brands</p>
         </div>
+
+        <body>
+          <div>
+           <img src='../../public/modelo.jpg' alt='modelo'/>
+          </div>
+        </body>
     </div>
   );
 }

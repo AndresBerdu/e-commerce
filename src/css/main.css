@@ -501,8 +501,8 @@ video {
 .flex {
   display: flex;
 }
-.h-20 {
-  height: 5rem;
+.h-auto {
+  height: auto;
 }
 .w-96 {
   width: 24rem;
